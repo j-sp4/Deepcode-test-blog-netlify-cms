@@ -11206,10 +11206,10 @@ netlify-cms-locales@^1.15.0:
   resolved "https://registry.yarnpkg.com/netlify-cms-locales/-/netlify-cms-locales-1.15.0.tgz#d4aa81211f8a7ce79083d7c642833db390aa6b47"
   integrity sha512-bBOipUFNSkmn37VIEDXe9j671N0q6p+GVW56YPd66AvCKv1ev5Uz+h8Su+SYjnmICOehvNGCcqB0GRZ2cpxldA==
 
-netlify-cms-media-library-cloudinary@^1.3.2:
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/netlify-cms-media-library-cloudinary/-/netlify-cms-media-library-cloudinary-1.3.4.tgz#ef8aa18ff85d4f1957a5ce4ca89799cda3334ec1"
-  integrity sha512-ujVXy1nhvYISf6Fs/UGgCWEchbEHlrpkBpwFfVdGyOpKanimmVRlqceMPzsLJbnmB2STCPWCG7vOnmvd0hZ7kw==
+netlify-cms-media-library-cloudinary@^1.3.5:
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/netlify-cms-media-library-cloudinary/-/netlify-cms-media-library-cloudinary-1.3.6.tgz#62d7167d9d9c2bd8ddb1a5991865e1a9d67448f8"
+  integrity sha512-M0TolAi79+DR2fLwz1Dqc/eMzx/MctFpD8wvrQSxYPoGYejHHG/MGEgAMlGUjERknYNwQjl7GK0yf7eFUDvJNA==
 
 netlify-cms-media-library-uploadcare@^0.5.2:
   version "0.5.5"
